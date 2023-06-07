@@ -1,0 +1,47 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #FDFBFB;
+}
+#accordion1 .card #headingOne1 {
+}
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    font-style: oblique;
+    background-color: #FFFFFF;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: large;
+    color: #00F200;
+}
+#headingOne1 .mb-0 a {
+    font-style: oblique;
+    font-weight: bolder;
+    font-variant: small-caps;
+    color: #784F00;
+}
+.container-fluid .container footer {
+    font-variant: normal;
+    font-weight: normal;
+}
+
+#headingTwo1 .mb-0 .collapsed {
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: bolder;
+    color: #784F00;
+}
+#headingThree1 .mb-0 .collapsed {
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: bolder;
+    color: #784F00;
+}
+
+
+
+.card.col-md-12 .card-body .btn.btn-primary {
+    background-color: #4FFF39;
+    color: #FAF7F7;
+    font-style: oblique;
+    font-weight: bold;
+}
